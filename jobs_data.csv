@@ -1,0 +1,312 @@
+Empid,Position,DeptID,Department,Salary,ManagerName,DateofHire
+10026,Production Technician I,5,Production       ,62506,Michael Albert,2011-07-05
+10084,Sr. DBA,3,IT/IS,104437,Simon Roup,2015-03-30
+10196,Production Technician II,5,Production       ,64955,Kissy Sullivan,2011-07-05
+10088,Production Technician I,5,Production       ,64991,Elijiah Gray,2008-01-07
+10069,Production Technician I,5,Production       ,50825,Webster Butler,2011-07-11
+10002,Production Technician I,5,Production       ,57568,Amy Dunn,2012-01-09
+10194,Software Engineer,4,Software Engineering,95660,Alex Sweetwater,2014-11-10
+10062,Production Technician I,5,Production       ,59365,Ketsia Liebig,2013-09-30
+10114,Production Technician I,5,Production       ,47837,Brannon Miller,2009-07-06
+10250,IT Support,3,IT/IS,50178,Peter Monroe,2015-01-05
+10252,Production Technician I,5,Production       ,54670,David Stanley,2011-01-10
+10242,Production Technician I,5,Production       ,47211,Kissy Sullivan,2012-04-02
+10012,Data Analyst,3,IT/IS,92328,Simon Roup,2014-11-10
+10265,Production Technician I,5,Production       ,58709,Kelley Spirea,2012-02-20
+10066,Production Technician I,5,Production       ,52505,Michael Albert,2012-09-24
+10061,Production Technician I,5,Production       ,57834,Kelley Spirea,2011-02-21
+10023,Production Technician II,5,Production       ,70131,Kelley Spirea,2016-07-21
+10055,Production Technician I,5,Production       ,59026,Elijiah Gray,2011-04-04
+10245,Database Administrator,3,IT/IS,110000,Simon Roup,2014-07-07
+10277,Production Technician I,5,Production       ,53250,Webster Butler,2013-07-08
+10046,Production Technician I,5,Production       ,51044,Amy Dunn,2012-04-02
+10226,Production Technician I,5,Production       ,64919,Ketsia Liebig,2013-08-19
+10003,Production Technician I,5,Production       ,62910,Brannon Miller,2014-07-07
+10294,Production Technician II,5,Production       ,66441,Michael Albert,2011-04-04
+10267,Production Technician II,5,Production       ,57815,Elijiah Gray,2011-01-10
+10199,Enterprise Architect,3,IT/IS,103613,Simon Roup,2014-02-17
+10081,Sr. Accountant,1,Admin Offices,106367,Brandon R. LeBlanc,2015-02-16
+10175,Production Manager,5,Production       ,74312,Janet King,2013-09-30
+10177,Production Technician I,5,Production       ,53492,David Stanley,2012-04-02
+10238,Accountant I,1,Admin Offices,63000,Brandon R. LeBlanc,2008-10-27
+10184,Production Technician II,5,Production       ,65288,Webster Butler,2014-09-29
+10203,Production Technician I,5,Production       ,64375,Kissy Sullivan,2013-11-11
+10188,Area Sales Manager,6,Sales,74326,John Smith,2011-08-15
+10107,Production Technician II,5,Production       ,63763,Amy Dunn,2012-03-05
+10181,Production Technician II,5,Production       ,62162,Ketsia Liebig,2011-04-04
+10150,Software Engineering Manager,4,Software Engineering,77692,Jennifer Zamora,2011-08-15
+10001,Production Manager,5,Production       ,72640,Janet King,2016-01-28
+10085,Software Engineer,4,Software Engineering,93396,Alex Sweetwater,2013-11-11
+10115,Production Technician I,5,Production       ,52846,Kelley Spirea,2014-03-31
+10082,Sr. DBA,3,IT/IS,100031,Simon Roup,2016-06-30
+10040,Area Sales Manager,6,Sales,71860,John Smith,2014-08-18
+10067,Production Technician I,5,Production       ,61656,Michael Albert,2014-09-29
+10108,BI Director,3,IT/IS,110929,Jennifer Zamora,2016-09-06
+10210,Production Technician I,5,Production       ,54237,Elijiah Gray,2014-05-12
+10154,Production Technician I,5,Production       ,60380,Webster Butler,2013-07-08
+10200,Area Sales Manager,6,Sales,66808,Lynn Daneault,2012-05-14
+10240,Production Technician I,5,Production       ,64786,Amy Dunn,2011-06-27
+10168,Production Technician I,5,Production       ,64816,Ketsia Liebig,2011-10-03
+10220,IT Support,3,IT/IS,68678,Eric Dougall,2012-09-05
+10275,Production Technician II,5,Production       ,64066,Brannon Miller,2011-05-16
+10269,Production Technician II,5,Production       ,59369,David Stanley,2010-08-30
+10029,Production Technician I,5,Production       ,50373,Brannon Miller,2016-07-06
+10261,Production Technician I,5,Production       ,63108,David Stanley,2013-07-08
+10292,Production Technician I,5,Production       ,59144,Kissy Sullivan,2011-07-11
+10282,Production Manager,5,Production       ,68051,Janet King,2010-07-20
+10019,Director of Operations,5,Production       ,170500,Janet King,2009-01-05
+10094,Production Technician I,5,Production       ,63381,Kelley Spirea,2015-01-05
+10193,Data Analyst,3,IT/IS,83552,Simon Roup,2015-03-30
+10132,Production Technician I,5,Production       ,56149,Michael Albert,2016-07-06
+10083,Sr. Network Engineer,3,IT/IS,92329,Peter Monroe,2014-11-10
+10099,Sales Manager,6,Sales,65729,Debra Houlihan,2014-05-05
+10212,Sr. Network Engineer,3,IT/IS,85028,Peter Monroe,2014-11-10
+10056,Production Technician I,5,Production       ,57583,Elijiah Gray,2012-07-02
+10143,Production Technician II,5,Production       ,56294,Kissy Sullivan,2011-11-07
+10311,Production Technician I,6,Production       ,56991,Brannon Miller,2018-07-09
+10070,Production Technician I,5,Production       ,55722,Webster Butler,2011-05-16
+10155,Software Engineer,4,Software Engineering,101199,Alex Sweetwater,2012-01-09
+10306,Area Sales Manager,6,Sales,61568,John Smith,2014-09-29
+10100,Production Technician II,5,Production       ,58275,Kelley Spirea,2011-04-04
+10310,Production Technician I,5,Production       ,53189,Amy Dunn,2014-07-07
+10197,BI Developer,3,IT/IS,96820,Brian Champaigne,2017-02-15
+10276,Production Technician I,5,Production       ,51259,Ketsia Liebig,2014-05-12
+10304,Area Sales Manager,6,Sales,59231,John Smith,2012-02-20
+10284,Production Technician I,5,Production       ,61584,Brannon Miller,2013-01-07
+10207,Production Technician I,5,Production       ,46335,David Stanley,2012-04-02
+10133,IT Support,3,IT/IS,70621,Peter Monroe,2015-01-05
+10028,IT Manager - Support,3,IT/IS,138888,Jennifer Zamora,2014-01-05
+10006,Area Sales Manager,6,Sales,74241,Lynn Daneault,2011-01-10
+10105,Production Manager,5,Production       ,75188,Janet King,2014-09-18
+10211,Production Technician I,5,Production       ,62514,Ketsia Liebig,2010-04-26
+10064,Production Technician I,5,Production       ,60070,Kissy Sullivan,2011-04-04
+10247,Production Technician I,5,Production       ,48888,Kelley Spirea,2014-11-10
+10235,Production Technician I,5,Production       ,54285,Kelley Spirea,2014-03-31
+10299,Production Technician II,5,Production       ,56847,Michael Albert,2014-07-07
+10280,Production Technician I,5,Production       ,60340,Michael Albert,2012-04-02
+10296,Production Technician I,5,Production       ,59124,Elijiah Gray,2014-02-17
+10290,Software Engineer,4,Software Engineering,99280,Alex Sweetwater,2011-05-02
+10263,Production Technician II,5,Production       ,71776,Elijiah Gray,2014-07-07
+10136,Production Technician II,5,Production       ,65902,Webster Butler,2014-02-17
+10189,Production Technician I,5,Production       ,57748,Webster Butler,2011-11-07
+10308,Production Technician I,5,Production       ,64057,Amy Dunn,2015-05-11
+10309,Network Engineer,3,IT/IS,53366,Peter Monroe,2015-03-30
+10049,Production Technician I,5,Production       ,58530,Brannon Miller,2012-01-09
+10093,Production Technician II,5,Production       ,72609,Amy Dunn,2011-05-16
+10163,Production Technician II,5,Production       ,55965,Ketsia Liebig,2011-04-04
+10305,Area Sales Manager,6,Sales,70187,Lynn Daneault,2014-09-29
+10015,IT Director,3,IT/IS,178000,Jennifer Zamora,2011-04-15
+10080,Sr. Accountant,1,Admin Offices,99351,Board of Directors,2009-01-05
+10258,Area Sales Manager,6,Sales,67251,Lynn Daneault,2011-09-06
+10273,IT Support,3,IT/IS,65707,Eric Dougall,2010-05-01
+10111,Production Technician I,5,Production       ,52249,David Stanley,2015-03-30
+10257,Production Technician I,5,Production       ,53171,Kelley Spirea,2011-05-16
+10159,Production Technician I,5,Production       ,51337,Michael Albert,2015-03-30
+10122,Production Technician I,5,Production       ,51505,Elijiah Gray,2011-11-07
+10142,Area Sales Manager,6,Sales,59370,John Smith,2014-07-07
+10283,Production Technician I,5,Production       ,54933,Webster Butler,2012-04-02
+10018,Production Technician I,5,Production       ,57815,Amy Dunn,2014-09-29
+10255,Area Sales Manager,6,Sales,61555,Lynn Daneault,2015-02-16
+10246,Database Administrator,3,IT/IS,114800,Simon Roup,2015-02-16
+10228,IT Support,3,IT/IS,74679,Peter Monroe,2015-03-30
+10243,Production Technician I,5,Production       ,53018,Ketsia Liebig,2013-11-11
+10031,Production Technician I,5,Production       ,59892,Brannon Miller,2011-07-11
+10300,Production Technician II,5,Production       ,68898,Brannon Miller,2010-04-26
+10101,IT Support,3,IT/IS,61242,Peter Monroe,2015-01-05
+10237,Production Technician II,5,Production       ,66825,David Stanley,2014-05-12
+10051,Production Technician I,5,Production       ,48285,David Stanley,2012-07-02
+10218,Production Technician II,5,Production       ,66149,Kissy Sullivan,2013-09-30
+10256,Production Technician I,5,Production       ,49256,Kissy Sullivan,2013-08-19
+10098,Production Manager,5,Production       ,62957,Janet King,2015-06-02
+10059,Production Technician I,5,Production       ,63813,Kelley Spirea,2011-02-21
+10234,BI Developer,3,IT/IS,99020,Brian Champaigne,2017-04-20
+10109,Area Sales Manager,6,Sales,71707,John Smith,2012-03-07
+10125,Production Technician I,5,Production       ,54828,Michael Albert,2011-11-28
+10074,Production Technician II,5,Production       ,64246,Kelley Spirea,2013-11-11
+10097,Production Technician I,5,Production       ,52177,Webster Butler,2012-01-09
+10007,Production Technician I,5,Production       ,62065,Amy Dunn,2014-05-12
+10129,Production Technician I,5,Production       ,46998,Ketsia Liebig,2012-08-13
+10075,Production Technician II,5,Production       ,68099,Kelley Spirea,2011-01-10
+10167,Area Sales Manager,6,Sales,70545,John Smith,2014-08-18
+10195,Production Technician II,5,Production       ,63478,Michael Albert,2011-08-15
+10112,Database Administrator,3,IT/IS,97999,Simon Roup,2015-03-30
+10272,Director of Sales,6,Sales,180000,Janet King,2014-05-05
+10182,Administrative Assistant,1,Admin Offices,49920,Brandon R. LeBlanc,2015-02-16
+10248,Production Technician I,5,Production       ,55425,Ketsia Liebig,2012-02-20
+10201,Production Technician II,5,Production       ,69340,Elijiah Gray,2016-06-06
+10214,Production Technician II,5,Production       ,64995,Webster Butler,2015-06-05
+10160,Production Technician II,5,Production       ,68182,Amy Dunn,2011-02-21
+10289,Production Manager,5,Production       ,83082,Janet King,2011-02-21
+10139,Production Technician I,5,Production       ,51908,Brannon Miller,2013-08-19
+10227,Production Technician I,5,Production       ,61242,David Stanley,2012-11-05
+10236,Production Technician I,5,Production       ,45069,Kissy Sullivan,2013-09-30
+10009,Production Technician II,5,Production       ,60724,Ketsia Liebig,2011-07-05
+10060,Production Technician I,5,Production       ,60436,Kelley Spirea,2014-01-06
+10034,Production Technician I,5,Production       ,46837,Michael Albert,2011-11-07
+10156,Database Administrator,3,IT/IS,105700,Simon Roup,2015-01-05
+10036,Production Technician II,5,Production       ,63322,Brannon Miller,2014-07-07
+10138,Production Technician I,5,Production       ,61154,Elijiah Gray,2011-01-10
+10244,Sales Manager,6,Sales,68999,Debra Houlihan,2011-11-07
+10192,Production Technician I,5,Production       ,50482,Michael Albert,2013-09-30
+10231,Area Sales Manager,6,Sales,65310,Lynn Daneault,2013-08-19
+10089,President & CEO,2,Executive Office,250000,Board of Directors,2012-07-02
+10166,Production Technician I,5,Production       ,54005,Webster Butler,2011-09-26
+10170,Production Technician I,5,Production       ,45433,Amy Dunn,2011-09-26
+10208,Production Technician I,5,Production       ,46654,Ketsia Liebig,2014-02-17
+10176,Production Technician I,5,Production       ,63973,Brannon Miller,2011-01-10
+10165,Area Sales Manager,6,Sales,71339,John Smith,2011-03-07
+10113,Sr. Network Engineer,3,IT/IS,93206,Peter Monroe,2014-11-10
+10092,Production Manager,5,Production       ,82758,Janet King,2011-01-10
+10106,Production Technician II,5,Production       ,66074,David Stanley,2013-01-07
+10052,Production Technician I,5,Production       ,46120,David Stanley,2012-07-09
+10038,Accountant I,1,Admin Offices,64520,Brandon R. LeBlanc,2014-01-06
+10249,Production Technician II,5,Production       ,61962,Kissy Sullivan,2012-04-02
+10232,Senior BI Developer,3,IT/IS,81584,Brian Champaigne,2016-10-02
+10087,Production Technician I,5,Production       ,63676,Kissy Sullivan,2011-09-26
+10134,Shared Services Manager,1,Admin Offices,93046,Janet King,2016-01-05
+10251,Production Technician I,5,Production       ,64738,Elijiah Gray,2012-05-14
+10103,Area Sales Manager,6,Sales,70468,John Smith,2012-04-30
+10017,Production Manager,5,Production       ,77915,Janet King,2013-09-30
+10186,Production Technician I,5,Production       ,52624,Michael Albert,2011-07-05
+10137,Production Technician II,5,Production       ,63450,Kelley Spirea,2013-07-08
+10008,IT Support,3,IT/IS,51777,Eric Dougall,2011-01-21
+10096,Production Technician II,5,Production       ,67237,Michael Albert,2013-07-08
+10035,Production Technician II,5,Production       ,73330,Elijiah Gray,2013-08-19
+10057,Production Technician I,5,Production       ,52057,Elijiah Gray,2015-02-16
+10004,Production Technician I,5,Production       ,47434,Webster Butler,2011-11-07
+10191,Production Technician I,5,Production       ,52788,Amy Dunn,2012-09-24
+10219,Production Technician I,5,Production       ,45395,Ketsia Liebig,2014-01-06
+10077,Production Technician II,5,Production       ,62385,Webster Butler,2016-05-11
+10073,Production Technician II,5,Production       ,68407,Amy Dunn,2011-07-05
+10279,Production Technician I,5,Production       ,61349,Brannon Miller,2013-11-11
+10110,Software Engineer,4,Software Engineering,105688,Alex Sweetwater,2013-11-11
+10053,Production Technician I,5,Production       ,54132,David Stanley,2011-05-31
+10076,Production Technician II,5,Production       ,55315,Ketsia Liebig,2015-03-30
+10145,Production Technician I,5,Production       ,62810,Kissy Sullivan,2013-01-07
+10202,Area Sales Manager,6,Sales,63291,Lynn Daneault,2016-07-06
+10128,Production Technician I,5,Production       ,62659,Kelley Spirea,2012-04-02
+10068,Production Technician I,5,Production       ,55688,Michael Albert,2015-03-30
+10116,Production Manager,5,Production       ,83667,Janet King,2012-08-16
+10298,Production Technician II,5,Production       ,55800,Brannon Miller,2011-08-15
+10213,Production Technician II,5,Production       ,58207,David Stanley,2011-11-07
+10288,IT Manager - Infra,3,IT/IS,157000,Jennifer Zamora,2012-02-15
+10025,Production Technician II,5,Production       ,72460,Kissy Sullivan,2013-05-13
+10223,Production Technician II,5,Production       ,72106,Kelley Spirea,2012-01-09
+10151,Network Engineer,3,IT/IS,52599,Peter Monroe,2015-02-16
+10254,Production Technician I,5,Production       ,63430,Elijiah Gray,2013-04-01
+10120,Production Technician II,5,Production       ,74417,Michael Albert,2013-05-13
+10216,Production Technician I,5,Production       ,57575,Kissy Sullivan,2013-07-08
+10079,Senior BI Developer,3,IT/IS,87921,Brian Champaigne,2017-02-10
+10215,Production Technician I,5,Production       ,50470,Webster Butler,2011-09-26
+10185,Production Technician I,5,Production       ,46664,Amy Dunn,2013-04-01
+10063,Production Technician I,5,Production       ,48495,Ketsia Liebig,2014-05-12
+10037,Production Technician I,5,Production       ,52984,Brannon Miller,2013-04-01
+10042,Area Sales Manager,6,Sales,63695,Lynn Daneault,2013-07-08
+10206,Production Technician I,5,Production       ,62061,David Stanley,2013-07-08
+10104,Production Technician II,5,Production       ,66738,Elijiah Gray,2014-11-10
+10303,Production Technician I,5,Production       ,52674,Kissy Sullivan,2014-03-31
+10078,Production Technician II,5,Production       ,71966,Webster Butler,2012-05-14
+10121,Area Sales Manager,6,Sales,63051,Lynn Daneault,2013-09-30
+10021,Production Technician I,5,Production       ,47414,Kelley Spirea,2013-09-30
+10281,Production Technician I,5,Production       ,53060,Michael Albert,2014-02-17
+10041,Area Sales Manager,6,Sales,68829,John Smith,2015-01-05
+10148,Production Technician I,5,Production       ,63515,Elijiah Gray,2011-02-07
+10005,Software Engineer,4,Software Engineering,108987,Alex Sweetwater,2011-11-07
+10259,Data Analyst,3,IT/IS,93093,Simon Roup,2014-12-01
+10286,Production Technician I,5,Production       ,53564,Webster Butler,2011-01-10
+10297,Production Technician II,5,Production       ,60270,Amy Dunn,2011-07-05
+10171,Production Technician I,5,Production       ,45998,Amy Dunn,2011-05-16
+10032,Production Technician II,5,Production       ,57954,Ketsia Liebig,2011-05-16
+10130,Production Manager,5,Production       ,74669,Janet King,2010-10-25
+10217,Production Technician II,5,Production       ,74226,Brannon Miller,2012-04-02
+10016,Data Analyst,3,IT/IS,93554,Simon Roup,2014-11-10
+10050,Production Technician I,5,Production       ,64724,Brannon Miller,2011-07-05
+10164,Production Technician I,5,Production       ,47001,David Stanley,2007-11-05
+10124,Area Sales Manager,6,Sales,61844,Lynn Daneault,2012-01-09
+10187,Production Technician I,5,Production       ,46799,Kissy Sullivan,2011-05-16
+10225,Production Technician I,5,Production       ,59472,Kelley Spirea,2014-01-06
+10262,Production Technician I,5,Production       ,46430,Kissy Sullivan,2012-09-24
+10131,Software Engineer,1,Software Engineering,83363,Janet King,2011-02-21
+10239,BI Developer,3,IT/IS,95920,Brian Champaigne,2016-10-02
+10152,Production Technician I,5,Production       ,61729,Michael Albert,2011-09-26
+10140,Area Sales Manager,6,Sales,61809,John Smith,2014-05-12
+10058,Production Technician I,5,Production       ,45115,Elijiah Gray,2011-05-16
+10011,Production Technician I,5,Production       ,46738,Webster Butler,2011-11-28
+10230,Production Technician II,5,Production       ,64971,David Stanley,2011-09-26
+10224,Production Technician II,5,Production       ,55578,Kissy Sullivan,2011-07-05
+10047,Production Technician I,5,Production       ,50428,Amy Dunn,2011-01-10
+10285,Production Technician I,5,Production       ,61422,Ketsia Liebig,2011-01-10
+10020,Production Technician I,5,Production       ,63353,Brannon Miller,2013-07-08
+10162,Data Analyst,3,IT/IS,89883,Simon Roup,2015-02-16
+10149,Principal Data Architect,3,IT/IS,120000,Simon Roup,2015-01-05
+10086,Data Architect,3,IT/IS,150290,Brian Champaigne,2017-01-07
+10054,Production Technician I,5,Production       ,60627,David Stanley,2014-01-06
+10065,Production Technician I,5,Production       ,53180,Kissy Sullivan,2011-04-04
+10198,IT Manager - DB,3,IT/IS,140920,Jennifer Zamora,2013-01-20
+10222,IT Manager - DB,3,IT/IS,148999,Jennifer Zamora,2012-01-09
+10126,Software Engineer,4,Software Engineering,86214,Alex Sweetwater,2012-11-05
+10295,Production Technician I,5,Production       ,47750,Kelley Spirea,2016-07-04
+10260,Production Technician I,5,Production       ,46428,Michael Albert,2009-01-05
+10233,Production Technician II,5,Production       ,57975,Kelley Spirea,2010-08-30
+10229,Data Analyst ,3,IT/IS,88527,Simon Roup,2015-01-05
+10169,Production Technician I,5,Production       ,56147,Elijiah Gray,2014-09-29
+10071,Production Technician I,5,Production       ,50923,Webster Butler,2013-09-30
+10179,Network Engineer,3,IT/IS,50750,Peter Monroe,2014-09-30
+10091,Production Technician I,5,Production       ,52087,Amy Dunn,2013-08-19
+10178,Data Analyst,3,IT/IS,87826,Simon Roup,2015-01-05
+10039,Administrative Assistant,1,Admin Offices,51920,Brandon R. LeBlanc,2015-05-01
+10095,Production Technician II,5,Production       ,63878,Michael Albert,2009-10-26
+10027,Production Technician II,5,Production       ,60656,Elijiah Gray,2014-09-29
+10291,Sales Manager,6,Sales,72992,Debra Houlihan,2014-05-18
+10153,Administrative Assistant,1,Admin Offices,55000,Brandon R. LeBlanc,2011-09-26
+10157,Production Technician I,5,Production       ,58939,Ketsia Liebig,2013-11-11
+10119,IT Support,3,IT/IS,66593,Eric Dougall,2011-06-10
+10180,Sr. Network Engineer,3,IT/IS,87565,Peter Monroe,2016-06-30
+10302,Production Technician I,5,Production       ,64021,Brannon Miller,2012-02-20
+10090,Production Manager,5,Production       ,65714,Janet King,2012-10-02
+10030,Production Technician I,5,Production       ,62425,David Stanley,2013-05-13
+10278,Production Technician I,5,Production       ,47961,Kissy Sullivan,2011-01-10
+10307,Area Sales Manager,6,Sales,58273,Lynn Daneault,2014-05-12
+10147,Accountant I,1,Admin Offices,63003,Brandon R. LeBlanc,2014-09-29
+10266,Production Technician I,5,Production       ,61355,Kelley Spirea,2014-02-17
+10241,Area Sales Manager,6,Sales,60120,John Smith,2010-09-27
+10158,Production Manager,5,Production       ,63682,Janet King,2009-01-08
+10117,Production Technician I,5,Production       ,63025,Michael Albert,2015-01-05
+10209,Production Technician I,5,Production       ,59238,Elijiah Gray,2012-05-14
+10024,Software Engineer,4,Software Engineering,92989,Alex Sweetwater,2014-07-07
+10173,BI Developer,3,IT/IS,90100,Brian Champaigne,2017-04-20
+10221,Production Technician I,5,Production       ,60754,Webster Butler,2009-04-27
+10146,Production Technician II,5,Production       ,72202,Elijiah Gray,2011-05-16
+10161,Area Sales Manager,6,Sales,58370,Lynn Daneault,2014-09-29
+10141,Production Technician I,5,Production       ,48413,Amy Dunn,2011-07-05
+10268,Production Technician II,5,Production       ,67176,Webster Butler,2007-06-25
+10123,Production Technician I,5,Production       ,56339,Brannon Miller,2013-02-18
+10013,Area Sales Manager,6,Sales,64397,Lynn Daneault,2006-01-09
+10287,Production Technician I,5,Production       ,63025,David Stanley,2014-02-17
+10044,Network Engineer,3,IT/IS,75281,Peter Monroe,2015-01-05
+10102,Software Engineer,4,Software Engineering,100416,Alex Sweetwater,2013-02-18
+10270,Production Technician II,5,Production       ,74813,Amy Dunn,2011-01-10
+10045,Network Engineer,3,IT/IS,76029,Peter Monroe,2015-03-30
+10205,Area Sales Manager,6,Sales,57859,John Smith,2011-07-05
+10014,Production Technician I,5,Production       ,58523,Kissy Sullivan,2012-08-13
+10144,Production Manager,5,Production       ,88976,Janet King,2011-08-01
+10253,Area Sales Manager,6,Sales,55875,John Smith,2012-03-05
+10118,Database Administrator,3,IT/IS,113999,Simon Roup,2015-02-16
+10022,Production Technician I,5,Production       ,49773,Kelley Spirea,2011-09-26
+10183,Production Technician I,5,Production       ,62068,Michael Albert,2015-07-05
+10190,Production Technician II,5,Production       ,66541,Ketsia Liebig,2014-08-18
+10274,Production Manager,5,Production       ,80512,Janet King,2011-09-26
+10293,Production Technician I,5,Production       ,50274,Elijiah Gray,2012-08-13
+10172,Senior BI Developer,3,IT/IS,84903,Brian Champaigne,2017-02-15
+10127,Sr. Network Engineer,3,IT/IS,107226,Peter Monroe,2015-03-30
+10072,Production Technician I,5,Production       ,58371,Webster Butler,2011-01-10
+10048,Production Technician I,5,Production       ,55140,Amy Dunn,2011-05-16
+10204,Production Technician I,5,Production       ,58062,Ketsia Liebig,2011-01-10
+10264,Production Technician I,5,Production       ,59728,Ketsia Liebig,2012-01-09
+10033,Production Technician II,5,Production       ,70507,Brannon Miller,2013-01-07
+10174,Production Technician II,5,Production       ,60446,David Stanley,2014-09-29
+10135,Production Technician II,5,Production       ,65893,Kissy Sullivan,2014-07-07
+10301,Production Technician I,5,Production       ,48513,Brannon Miller,2008-09-02
+10010,CIO,3,IT/IS,220450,Janet King,2010-04-10
+10043,Data Analyst,3,IT/IS,89292,Simon Roup,2015-03-30
+10271,Production Technician I,5,Production       ,45046,David Stanley,2014-09-29
